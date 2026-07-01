@@ -1,0 +1,160 @@
+canonical_identifier: bkk:krp/KR6n0047/v1
+canonical_location: https://kanripo.org/bkk/KR6n0047/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 成唯識論觀心法要
+  identifiers:
+    alt_id:
+    - X51n0824
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X51/X51n0824.xml
+    old_id: X51n0824
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0047_000.yaml, hash: 'sha256:ad5fea6967ca6ecbd4dc7a87f7738f91c19fd965304871b1b8d77146c713800c'}
+  - {seq: 1, filename: KR6n0047_001.yaml, hash: 'sha256:5cc897f0d9e9935e420f76e2dee373c54648a9fb29ca4be9960483fb47ab6ce1'}
+  - {seq: 2, filename: KR6n0047_002.yaml, hash: 'sha256:155041c992cbeb46134f9f64205ecea865ec6e330813422ee6b142916ddc5536'}
+  - {seq: 3, filename: KR6n0047_003.yaml, hash: 'sha256:24f0b642b3245521744c85db7ec52c00a29a25ca47d85d41baae521638f971d8'}
+  - {seq: 4, filename: KR6n0047_004.yaml, hash: 'sha256:646e51bdb250523dce7b12b30039a0b1abdb08d4c53571de1b17c043875fc82b'}
+  - {seq: 5, filename: KR6n0047_005.yaml, hash: 'sha256:fc8773fbd1bb74ef49f3e3b82f9ae4bf2a9061ad7edbfbcbe0a92eef3b606262'}
+  - {seq: 6, filename: KR6n0047_006.yaml, hash: 'sha256:e51ea3629a7f011e80ae8c2f2426dcd242a19809ebba4e1e781c6748bb7b23b5'}
+  - {seq: 7, filename: KR6n0047_007.yaml, hash: 'sha256:2b20abc8e1a2723cf37c0046a111fef745cc26d7f7ae1d78809427c2b961cad0'}
+  - {seq: 8, filename: KR6n0047_008.yaml, hash: 'sha256:4699123db08cf9551871ff00274c00b6f505130109dcc5bff43060f724d0fbfd'}
+  - {seq: 9, filename: KR6n0047_009.yaml, hash: 'sha256:056272b815011852a25b29638a5863c11fb2472fa59b7b317423e91ee8daada9'}
+  - {seq: 10, filename: KR6n0047_010.yaml, hash: 'sha256:674177e6d32e15e31e9256e7c0e49d90c9e0c0d386c0da4639ae9bb5a5404b0c'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6n0047_001.markers.yaml, hash: 'sha256:256ac63294b1ea76e8b4f43fdfb3d5ce19cd84452bd584a2e71e8440871a3fbc'}
+  - {seq: 2, role: markers, filename: assets/KR6n0047_002.markers.yaml, hash: 'sha256:878691ccec6f90c7325af2edf25fb7f2cf70c38bbc731577eff5468341678ab6'}
+  - {seq: 3, role: markers, filename: assets/KR6n0047_003.markers.yaml, hash: 'sha256:59809553f85affa8e84988ae4bde310f7d62b183a0e2e370f8ad7a90ed37ae99'}
+  - {seq: 4, role: markers, filename: assets/KR6n0047_004.markers.yaml, hash: 'sha256:80f79ce8d178f01231dc9cbdcc93312e0a790999d844d9613ef3680302796032'}
+  - {seq: 5, role: markers, filename: assets/KR6n0047_005.markers.yaml, hash: 'sha256:597577731c3438900b5f6d09169df6202b276c32426b47989ad819ace8f65b3d'}
+  - {seq: 6, role: markers, filename: assets/KR6n0047_006.markers.yaml, hash: 'sha256:132f6fed1b70440488349a6451c813846273c65f99c16c05869461f8d8d6e5d3'}
+  - {seq: 7, role: markers, filename: assets/KR6n0047_007.markers.yaml, hash: 'sha256:c81b2a548247a4378373c43834b68fc22b203229a18dc1720177a20a0d5a82df'}
+  - {seq: 8, role: markers, filename: assets/KR6n0047_008.markers.yaml, hash: 'sha256:d9f2e68252b9d2460944c568561ad73bcd122c15dbc649cb80d6199416acafca'}
+  - {seq: 9, role: markers, filename: assets/KR6n0047_009.markers.yaml, hash: 'sha256:26217ce825acd70e50ccb829d991c2217475dd0dc32ff7a541618d2bf091cc13'}
+  - {seq: 10, role: markers, filename: assets/KR6n0047_010.markers.yaml, hash: 'sha256:5828e13fb280e652d1ec1e2263f12f4feaf6d394e0a2bc2c67c0148be21d5799'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6n0047_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 22271
+  label: 成唯識論觀心法要卷第一附緣起并凡例
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0047_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 17943
+  label: 成唯識論觀心法要卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0047_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 17546
+  label: 成唯識論觀心法要卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6n0047_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 18137
+  label: 成唯識論觀心法要卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6n0047_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 19324
+  label: 成唯識論觀心法要卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6n0047_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 19509
+  label: 成唯識論觀心法要卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6n0047_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 24649
+  label: 成唯識論觀心法要卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6n0047_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 21898
+  label: 成唯識論觀心法要卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0047_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 21845
+  label: 成唯識論觀心法要卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6n0047_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 22322
+  label: 成唯識論觀心法要卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6n0047_X_010-mulu-1
+    span:
+    - body
+    - 21699
+    - 21699
+  label: No. 824-A 跋語
+  type: mulu
+  level: 1
+hash: sha256:946d88998cfb5f91d3edfe03b9cdd91e6e1e36c90547350e84779801046ede87
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
